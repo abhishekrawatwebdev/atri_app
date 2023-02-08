@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/rules-of-hooks */
 import { useCallback } from "react";
 import { callbackFactory } from "../utils/callbackFactory";
 export function usenavbarCb() {
